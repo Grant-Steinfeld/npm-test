@@ -15,8 +15,10 @@ npm login
 npm publish
 
 # publishes to my user on public NPM
+```
 
 I pay the $7/month package as it gives me private scoped libraries, rather than just public
 
 ![private npm scoped package](./images/npm-test.v1.0.3-on-npm-registry-private.png)
-```
+
+Here is how it looks on the public NPM registry ( only I can see it when logged in as it's scoped user/private )
